@@ -15,5 +15,5 @@ $(document).ready(function () {
     'top': '-8px',
     'left': '-24px'
   });
-  $('div.HeartAnimation').html('(⌐■_■) Massive Props');
+  $('div.HeartAnimation').html('florps');
 });
